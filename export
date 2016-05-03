@@ -1,0 +1,40 @@
+{
+  "version": "2.0.10",
+  "replacements": [
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "Ted Cruz",
+      "repB": "The Zodiac Killer",
+      "type": "Swap"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "millennials",
+      "repB": "snake people",
+      "type": "Swap"
+    },
+    {
+      "active": true,
+      "case": "Maintain",
+      "repA": "millennial",
+      "repB": "snake person",
+      "type": "Swap"
+    },
+    {
+      "repA": "millenial",
+      "repB": "snake person",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    },
+    {
+      "repA": "millenials",
+      "repB": "snake people",
+      "type": "Simple",
+      "case": "Maintain",
+      "active": true
+    }
+  ]
+}
